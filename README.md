@@ -111,7 +111,7 @@ In this project, we employed several statistical and machine learning techniques
    - Evaluated model performance using metrics such as accuracy, precision, recall, and F1-score on the testing set.
    - Compared the performance of different models to select the best one for predicting booking cancellations.
 
-4. Model Selection :
+4. **Model Selection**:
   After evaluating multiple models, including logistic regression, random forest, K-Nearest Neighbors (KNN), and decision trees, we found that both the random forest(accuracy =95.24%)  and decision tree( accuracy = 94.97%) models provided the highest accuracy in predicting booking cancellations. However, the random forest model slightly outperformed the decision tree model in terms of accuracy. 
 
 
