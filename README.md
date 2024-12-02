@@ -48,7 +48,7 @@ The dataset contains 119391 rows and 32 columns. It contains detailed booking re
    - **Customer Types**: Mostly transient, with a few transient-party and contract customers
    - **Room Types**: Reserved and assigned room types vary, with some changes made to bookings
 
-####Note : This project was completed as part of the [LearnBay](https://www.learnbay.co/) "Advanced Data Science and AI" course . The dataset used for this hands-on assessment was provided by the course instructors.
+### Note : This project was completed as part of the [LearnBay](https://www.learnbay.co/) "Advanced Data Science and AI" course . The dataset used for this hands-on assessment was provided by the course instructors.
 ---
 
 
